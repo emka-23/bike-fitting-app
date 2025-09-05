@@ -1,0 +1,9 @@
+streamlit==1.38.0
+opencv-python-headless==4.10.0.84
+numpy==1.26.4
+pandas==2.2.2
+Pillow==10.4.0
+rembg==2.0.55
+streamlit-drawable-canvas==0.9.3
+mediapipe==0.10.14
+protobuf==4.25.3
